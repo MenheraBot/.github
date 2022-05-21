@@ -1,12 +1,12 @@
-## Hi there 👋
+<p align="center">
+<img src="https://i.redd.it/e3crcw0hseq51.jpg">
+</p>
+<h1 align="center">💖 MenheraBot 💖</h1>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p align="center">
+    🧉 A brazilian Discord Bot who wants to make everyone happy 🧉
+    <!---I know that `br` is not the best way of do it, but i just think on that-->
+    <br />
+    <br />
+    <br />
+  </p>
